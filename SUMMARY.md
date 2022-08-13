@@ -457,11 +457,11 @@
 
 ## Java Tutorial
 
-* [Untitled](java-tutorial/untitled.md)
+* [😍 Learn from Projects](java-tutorial/untitled.md)
 
 ## Java Concurrency
 
-* [Untitled](java-concurrency/untitled.md)
+* [🥶 To-Do八股文](java-concurrency/untitled.md)
 
 ## PyTorch for Beginner
 
